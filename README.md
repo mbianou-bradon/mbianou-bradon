@@ -1,4 +1,4 @@
- Hello 👋, I’m Brad B😎.
+# Hello 👋, I’m Brad B😎.
 - 👀 I’m interested in web and mobile app development using Ruby on rails, Desktop apps with C#.
 - 🌱 I’m currently learning Javascripts and some of it's frameworks (ReactJs and NodeJs)
 - 💞️ I’m looking to collaborate on e-learning platform
