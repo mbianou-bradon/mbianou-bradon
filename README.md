@@ -6,7 +6,7 @@
 - ⚡ I am getting into JavaScript Libraries like NextJS and TypeScript.
 - ❤️ I’m passionate about Innovation and I love Anime, travelling, and video gaming as well.
 - 💬 Ask me about anything productive.
-- 📫 Let's connect: https://www.linkedin.com/in/mbianou-bradon/ and on https://twitter.com/Mbianou_Bradon.
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mbianou-bradon/) and on [Twitter](https://twitter.com/Mbianou_Bradon).
 - 😄 Pronouns: I go by He/Him.
 - ⚡ Fact about me: I am from Human science 👨‍🦱 background and had a Bsc. Biochemistry 🥰. Wrote my first line of code in 2020 🤭. 
 
