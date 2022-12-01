@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on e-learning platform
 - 📫 How to reach me 
 - ⚡ I am getting into JavaScript Libraries like NextJS and TypeScript.
-- 🤔 I’m passionate about programming and I love travelling, reading and video gaming as well.
+- ❤️ I’m passionate about Innovation and I love Anime, travelling, and video gaming as well.
 - 💬 Ask me about anything productive.
 - 📫 Let's connect: https://www.linkedin.com/in/mbianou-bradon/ and on https://twitter.com/Mbianou_Bradon.
 - 😄 Pronouns: I go by He/Him.
