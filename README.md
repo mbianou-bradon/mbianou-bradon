@@ -29,7 +29,7 @@
 - ❤️ I’m passionate about Innovation and I love Anime, travelling, and video gaming as well.
 - 💬 Ask me about anything productive.
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mbianou-bradon/), [Twitter](https://twitter.com/Mbianou_Bradon), and on [Whatsapp](https://wa.me/message/TYNHKJ37CIGDI1).
-- 😄 Pronouns: I go by He/Him.
+- 😄 Pronouns: I go by He.
 - ⚡ Fact about me: I am from Human science 👨‍🦱 background and had a Bsc. Biochemistry 🥰. Wrote my first line Hello World in 2020 😄 but actually got into the programing in Nov 2022 🤭. 
 
 <h2> :hammer_and_wrench: Languages and Technology</h2>
