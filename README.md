@@ -56,7 +56,7 @@
 <h2> :fire: Git Stats</h2>
 
 <!-- Streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbianou-bradn&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbianou-bradon&theme=dracula)](https://git.io/streak-stats)
 
 <!-- -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mbianou-bradon&theme=dracula&show_icons=true&count_private=true)
